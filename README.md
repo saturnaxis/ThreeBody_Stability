@@ -15,6 +15,6 @@ A more detailed description of these simulations, the use of an interpolation me
 author = {{Quarles}, B. and {Li}, G. and {Kostov}, V. and {Haghighipour}, N.},
 title = "{Orbital Stability of Circumstellar Planets in Binary Systems}",
 journal = {\aj},
-pages = {in prep}
+pages = {submitted}
 }
 ```
