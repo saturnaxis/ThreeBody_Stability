@@ -8,16 +8,13 @@ The results from all the simulations are available on Zenodo.org (http://doi.org
 
 Attribution
 --------
-A more detailed description of these simulations, the use of an interpolation method, and the context for the future observations with the Transiting Exoplanet Survey Satellite (TESS) will be available in a forthcoming paper.  However in the meantime please use the following citation, if you find these tools useful in your research. ::
+A more detailed description of these simulations, the use of an interpolation method, and the context for the future observations with the Transiting Exoplanet Survey Satellite (TESS) will be available in a forthcoming paper.  However in the meantime please use the following citation, if you find these tools useful in your research. 
 
+```
 @article{Quarles2020,
-
 author = {{Quarles}, B. and {Li}, G. and {Kostov}, V. and {Haghighipour}, N.},
-
 title = "{Orbital Stability of Circumstellar Planets in Binary Systems}",
-
 journal = {\aj},
-
 pages = {in prep}
-
 }
+```
