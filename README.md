@@ -2,7 +2,7 @@
 --------
 [![Arxiv](https://img.shields.io/badge/arXiv-1912.11019-red.svg?style=flat)](https://arxiv.org/abs/1912.11019)
 [![AJ](https://img.shields.io/badge/Version-AJ-brightgreen)](http://dx.doi.org/10.3847/1538-3881/ab64fa)
-[![DOI](https://zenodo.org/badge/doi/10.5281/zenodo.18914.svg)](http://dx.doi.org/10.5281/zenodo.18914)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4026266.svg)](https://doi.org/10.5281/zenodo.4026266)
 
 
 --------
